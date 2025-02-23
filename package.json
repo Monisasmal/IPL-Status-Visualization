@@ -1,0 +1,18 @@
+{
+  "name": "ipl-project",
+  "version": "1.0.0",
+  "description": "create IPL Project using NODEJS, ExpressJS, Scraper...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  
+  },
+  "author": "manaswini sasmal",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^24.2.1"
+  }
+}
