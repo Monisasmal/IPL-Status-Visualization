@@ -1,0 +1,167 @@
+[
+    {
+      "fours": "0",
+      "sixes": "0"
+    },
+    {
+      "pos": "1",
+      "player": "Virat Kohli\nRCB",
+      "runs": "741",
+      "matches": "15",
+      "fours": "5",
+      "sixes": "62"
+    },
+    {
+      "pos": "2",
+      "player": "Ruturaj Gaikwad\nCSK",
+      "runs": "583",
+      "matches": "14",
+      "fours": "4",
+      "sixes": "58"
+    },
+    {
+      "pos": "3",
+      "player": "Riyan Parag\nRR",
+      "runs": "573",
+      "matches": "16",
+      "fours": "4",
+      "sixes": "40"
+    },
+    {
+      "pos": "4",
+      "player": "Travis Head\nSRH",
+      "runs": "567",
+      "matches": "15",
+      "fours": "4",
+      "sixes": "64"
+    },
+    {
+      "pos": "5",
+      "player": "Sanju Samson\nRR",
+      "runs": "531",
+      "matches": "16",
+      "fours": "5",
+      "sixes": "48"
+    },
+    {
+      "pos": "6",
+      "player": "Sai Sudharsan\nGT",
+      "runs": "527",
+      "matches": "12",
+      "fours": "2",
+      "sixes": "48"
+    },
+    {
+      "pos": "7",
+      "player": "K L Rahul\nLSG",
+      "runs": "520",
+      "matches": "14",
+      "fours": "4",
+      "sixes": "45"
+    },
+    {
+      "pos": "8",
+      "player": "Nicholas Pooran\nLSG",
+      "runs": "499",
+      "matches": "14",
+      "fours": "3",
+      "sixes": "35"
+    },
+    {
+      "pos": "9",
+      "player": "Sunil Narine\nKKR",
+      "runs": "488",
+      "matches": "15",
+      "fours": "3",
+      "sixes": "50"
+    },
+    {
+      "pos": "10",
+      "player": "Abhishek Sharma\nSRH",
+      "runs": "484",
+      "matches": "16",
+      "fours": "3",
+      "sixes": "36"
+    },
+    {
+      "pos": "11",
+      "player": "Heinrich Klaasen\nSRH",
+      "runs": "479",
+      "matches": "16",
+      "fours": "4",
+      "sixes": "19"
+    },
+    {
+      "pos": "12",
+      "player": "Rishabh Pant\nDC",
+      "runs": "446",
+      "matches": "13",
+      "fours": "3",
+      "sixes": "36"
+    },
+    {
+      "pos": "13",
+      "player": "Faf Du Plessis\nRCB",
+      "runs": "438",
+      "matches": "15",
+      "fours": "4",
+      "sixes": "47"
+    },
+    {
+      "pos": "14",
+      "player": "Phil Salt\nKKR",
+      "runs": "435",
+      "matches": "12",
+      "fours": "4",
+      "sixes": "50"
+    },
+    {
+      "pos": "15",
+      "player": "Yashasvi Jaiswal\nRR",
+      "runs": "435",
+      "matches": "16",
+      "fours": "1",
+      "sixes": "54"
+    },
+    {
+      "pos": "16",
+      "player": "Shubman Gill\nGT",
+      "runs": "426",
+      "matches": "12",
+      "fours": "2",
+      "sixes": "37"
+    },
+    {
+      "pos": "17",
+      "player": "Rohit Sharma\nMI",
+      "runs": "417",
+      "matches": "14",
+      "fours": "1",
+      "sixes": "45"
+    },
+    {
+      "pos": "18",
+      "player": "Tilak Varma\nMI",
+      "runs": "416",
+      "matches": "13",
+      "fours": "3",
+      "sixes": "35"
+    },
+    {
+      "pos": "19",
+      "player": "Shivam Dube\nCSK",
+      "runs": "396",
+      "matches": "14",
+      "fours": "3",
+      "sixes": "28"
+    },
+    {
+      "pos": "20",
+      "player": "Rajat Patidar\nRCB",
+      "runs": "395",
+      "matches": "15",
+      "fours": "5",
+      "sixes": "21"
+    }
+    
+  ]
