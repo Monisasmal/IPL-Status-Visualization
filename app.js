@@ -1,6 +1,6 @@
 async function fetchIPLData() {
     try {
-        const response = await fetch("http://localhost:3000/ipl-stats");
+        const response = await fetch("https://ipl-status-visualization.onrender.com/ipl-stats");
         if (!response.ok) throw new Error("Failed to fetch data");
 
         const data = await response.json();
