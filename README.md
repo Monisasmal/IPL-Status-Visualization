@@ -18,7 +18,7 @@ This project scrapes IPL statistics from the official IPL website using Puppetee
 
 ✅ Deployed on Render: Fully hosted backend and frontend
 
-**Tech Stack**
+## Tech Stack
 1. Install dependencies  -- express, cros, fs, puppeteer
 2.Run the scraper -- node scraper.js
 3. Start the server -- node index.js
