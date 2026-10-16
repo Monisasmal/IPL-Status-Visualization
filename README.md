@@ -1,4 +1,4 @@
-78th  # IPL Stats Scraper & Visualization
+## IPL Stats Scraper & Visualization
 
 🚀 Live Demo: https://ipl-status-visualization-1.onrender.com/
 
